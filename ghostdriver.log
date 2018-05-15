@@ -1,0 +1,33 @@
+[INFO  - 2018-05-15T08:59:03.324Z] GhostDriver - Main - running on port 24508
+[INFO  - 2018-05-15T08:59:06.594Z] Session [39252940-581e-11e8-9ef9-a7b52662da81] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-05-15T08:59:06.595Z] Session [39252940-581e-11e8-9ef9-a7b52662da81] - page.customHeaders:  - {}
+[INFO  - 2018-05-15T08:59:06.595Z] Session [39252940-581e-11e8-9ef9-a7b52662da81] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-05-15T08:59:06.595Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 39252940-581e-11e8-9ef9-a7b52662da81
+[ERROR - 2018-05-15T09:03:18.495Z] Session [39252940-581e-11e8-9ef9-a7b52662da81] - page.onError - msg: TypeError: undefined is not an object (evaluating 'bdV3x.addCallback')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-15T09:03:18.496Z] Session [39252940-581e-11e8-9ef9-a7b52662da81] - page.onError - stack:
+  (anonymous function) (http://s3.music.126.net/web/s/core.js?41b5125468f99d22c34a8daaf731443a:132)
+  forEach (:0)
+  bd5i (http://s3.music.126.net/web/s/core.js?41b5125468f99d22c34a8daaf731443a:17)
+  (anonymous function) (http://s3.music.126.net/web/s/core.js?41b5125468f99d22c34a8daaf731443a:132)
+  (anonymous function) (http://s3.music.126.net/web/s/core.js?41b5125468f99d22c34a8daaf731443a:1)
+  Of7Y (http://s3.music.126.net/web/s/core.js?41b5125468f99d22c34a8daaf731443a:25)
+  (anonymous function) (http://s3.music.126.net/web/s/core.js?41b5125468f99d22c34a8daaf731443a:1)
+
+  phantomjs://platform/console++.js:263 in error
+[I[INFO  - 2018-05-15T09:04:55.781Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW[I[INFO  - 2018-05-15T09:09:55.781Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW[I[INFO  - 2018-05-15T09:14:55.795Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW[I[INFO  - 2018-05-15T09:19:55.795Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+NFO  - 2018-05-15T09:05:47.044Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-15T09:10:47.044Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-15T09:15:47.044Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-15T09:20:47.044Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-15T09:21:15.392Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-15T09:18:05.996Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-15T09:18:58.832Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[[INFO  - 2018-05-15T09:17:59.387Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW[INFO  - 2018-05-15T09:20:41.502Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-15T09:13:12.227Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW[[INFO  - 2018-05-15T09:18:12.229Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW[[INFO  - 2018-05-15T09:21:44.614Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+INFO  - 2018-05-15T09:21:08.114Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-15T09:21:06.391Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-15T09:20:37.319Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+s - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-15T09:18:21.586Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
